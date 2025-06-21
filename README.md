@@ -300,13 +300,13 @@ mux_con: تعداد کانکشن‌های مولتی‌پلکس (پیش‌فرض
 برای نصب این دستور را اجرا کنید
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/mrt2081/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
 ```
 
 🤖 نصب ربات تلگرام مونیتورینگ
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/mrt2081/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
 ```
 پس از اجرا:
 
@@ -315,25 +315,4 @@ bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/m
 توکن ربات و چت آی دی خود را وارد نمایید
 
 زمان بررسی تانل‌ها را بر اساس ثانیه تنظیم کنید
-
-## 💰 حمایت مالی
-
-ما از حمایت شما برای توسعه و بهبود مستمر پروژه قدردانی می‌کنیم:
-
-<div align="center">
-
-| شبکه         | نوع ارز       | آدرس کیف پول                              | آیکون       |
-|--------------|--------------|------------------------------------------|------------|
-| **Tron**     | TRX (TRC20)  | `TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ`     | <img src="https://cryptologos.cc/logos/tron-trx-logo.png" width="20"> |
-| **Ethereum** | USDT (ERC20) | `0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76` | <img src="https://cryptologos.cc/logos/tether-usdt-logo.png" width="20"> |
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <p>🙏 از اعتماد و حمایت ارزشمند شما سپاسگزاریم</p>
-  <p>هر میزان کمک مالی، انگیزه‌ای برای توسعه و ارتقای پروژه خواهد بود</p>
-</div>
-
-
-
-<div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/29063460-b7f5-4e59-88df-bbe4bb84c836" width="300"></td> <td><img src="https://github.com/user-attachments/assets/c2f33b82-46ad-46c8-b514-2d017532e5f4" width="300"></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/e7fbaa6e-2d6a-48c8-9696-0cc8ab528a14" width="300"></td> <td><img src="https://github.com/user-attachments/assets/59322989-d5ae-472f-a491-34104ec85b74" width="300"></td> </tr> </table> </div>
+ 

@@ -276,38 +276,11 @@ Timer: Set auto-restart (1-23 hours)
 Run this command to install:
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/mrt2081/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
 ```
 
 🤖 Telegram Monitoring Bot Installation
 ```
-bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/mrt2081/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
 ```
-
-After execution:
-
-Select installation option
-
-Enter your bot token and chat ID
-
-Set tunnel check interval in seconds
-
-## 💰 Financial Support
-
-We appreciate your support for continuous project development:
-
-<div align="center">
-
-| Network       | Currency       | Wallet Address                              | Icon       |
-|--------------|--------------|------------------------------------------|------------|
-| **Tron**     | TRX (TRC20)  | `TMXRpCsbz8PKzqN4koXiErawdLXzeinWbQ`     | <img src="https://cryptologos.cc/logos/tron-trx-logo.png" width="20"> |
-| **Ethereum** | USDT (ERC20) | `0xD4cEBA0cFf6769Fb9EFE4606bE59C363Ff85BF76` | <img src="https://cryptologos.cc/logos/tether-usdt-logo.png" width="20"> |
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <p>🙏 We appreciate your valuable trust and support</p>
-  <p>Any financial contribution motivates further development and improvement</p>
-</div>
-
-<div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/29063460-b7f5-4e59-88df-bbe4bb84c836" width="300"></td> <td><img src="https://github.com/user-attachments/assets/c2f33b82-46ad-46c8-b514-2d017532e5f4" width="300"></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/e7fbaa6e-2d6a-48c8-9696-0cc8ab528a14" width="300"></td> <td><img src="https://github.com/user-attachments/assets/59322989-d5ae-472f-a491-34104ec85b74" width="300"></td> </tr> </table> </div>
+ 
